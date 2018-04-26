@@ -1,2 +1,2 @@
 testing using git
-26/4/2018
+26/4/2018 - still trying to understand how git function
